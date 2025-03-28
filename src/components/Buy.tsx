@@ -15,7 +15,7 @@ export function Buy() {
 
                 2x VEZES DE
                 <p className="md:text-6xl text-5xl font-bold mb-1">
-                    R$ 9,48
+                    R$ 9,98
                 </p>
 
                 OU
@@ -37,7 +37,7 @@ export function Buy() {
                 
                 >
 
-                    <a href="https://pay.hotmart.com/W98894948B?bid=1743085477182" target="_blank">
+                    <a href="https://pay.hotmart.com/R98916881M?bid=1743133849031" target="_blank">
 
                         COMPRAR AGORA
 

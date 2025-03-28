@@ -39,10 +39,13 @@ export function PitImage() {
                     
                         className="bg-emerald-500 font-semibold px-7 py-2 rounded-lg hover:bg-emerald-600 cursor-pointer inline-flex"
                     >
-                        < WandSparkles 
-                            className="mr-2"
-                        />
-                        Quero comprar agora!
+                        <a href="https://pay.hotmart.com/R98916881M?bid=1743133849031" target="_blank">
+                            < WandSparkles 
+                                className="mr-2"
+                            />
+
+                            Quero comprar agora!
+                        </a>
                     
                     </motion.button>
                 </div>
