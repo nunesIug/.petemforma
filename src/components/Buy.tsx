@@ -39,7 +39,7 @@ export function Buy() {
 
                     <a href="https://pay.hotmart.com/R98916881M?bid=1743133849031" target="_blank">
 
-                        COMPRAR AGORA
+                        Comprar agora!
 
                     </a>
 

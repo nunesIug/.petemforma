@@ -3,7 +3,7 @@ import { Star } from 'lucide-react';
 export function About() {
     return(
         <div className="text-center">
-            <p className="font-semibold bg-gradient-to-r from-emerald-700 to-emerald-200 bg-clip-text text-transparent">
+            <p className="font-semibold bg-gradient-to-r from-emerald-700 to-emerald-200 bg-clip-text text-transparent pl-3 pr-3">
                 Nutrição saúdavel + Exercicios fisicos = Pet feliz.
             </p>
             <h2 className="text-3xl font-semibold mb-3">

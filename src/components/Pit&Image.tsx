@@ -29,25 +29,28 @@ export function PitImage() {
                         </i>
                     </p>
 
-                    < motion.button 
-                        whileHover={{
-                            scale: 0.98
-                        }}
-                        whileTap={{
-                            scale: 1.03
-                        }}
-                    
-                        className="bg-emerald-500 font-semibold px-7 py-2 rounded-lg hover:bg-emerald-600 cursor-pointer inline-flex"
-                    >
-                        <a href="https://pay.hotmart.com/R98916881M?bid=1743133849031" target="_blank">
+                    <a href="https://pay.hotmart.com/R98916881M?bid=1743133849031" target="_blank">
+                        < motion.button 
+                            whileHover={{
+                                scale: 0.98
+                            }}
+                            whileTap={{
+                                scale: 1.03
+                            }}
+                        
+                            className="bg-emerald-500 font-semibold px-7 py-2 rounded-lg hover:bg-emerald-600 cursor-pointer inline-flex"
+                        >
+                            
                             < WandSparkles 
                                 className="mr-2"
                             />
 
                             Quero comprar agora!
-                        </a>
+                        
+                        
+                        </motion.button>
+                    </a>
                     
-                    </motion.button>
                 </div>
 
                 <div className="lg:p-16 pl-16 pr-16 pt-8">
