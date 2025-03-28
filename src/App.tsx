@@ -5,7 +5,6 @@ import { PitImage } from './components/Pit&Image';
 import { Info } from './components/Info';
 import { About } from './components/About';
 import { Buy } from './components/Buy';
-import { Footer } from './components/Footer';
 
 function App() {
   return (
@@ -16,7 +15,6 @@ function App() {
         < Info />
         < About />
         < Buy />
-        < Footer />
       </main>
     </>
   )
