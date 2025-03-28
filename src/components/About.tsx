@@ -10,7 +10,7 @@ export function About() {
                 O que produzimos para você?
             </h2>
             <p className="font-light pl-12 pr-12 mb-20">
-                Ensinamos o que é exatamente a Obesidade para os animais, como identificar obesidade em seu Pet. <br />
+                Te ensinamos o que é exatamente a Obesidade para os animais, como identificar obesidade em seu Pet. <br />
                 Instruções sobre estabelecer uma dieta Nutritiva ao seu animal,
                 Dentre mais informações valiosas para seu Pet. Você não vai querer ficar sem!
             </p>
